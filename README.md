@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VickypediaSingh
 - 👀 I’m interested in ...Development and Behavioral Sciences.
-- 🌱 I’m currently learning ...Blockchain Development.
-- 💞️ I’m looking to collaborate on ...DApps.
+- 🌱 I’m currently learning ...DSA.
 - 📫 How to reach me ... officialbikramjeet@gmail.com
 
 <!---
