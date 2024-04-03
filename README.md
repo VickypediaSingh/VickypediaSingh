@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VickypediaSingh
-- 👀 I’m interested in ...Development and Behavioral Sciences.
-- 🌱 I’m currently learning ...DSA and MERN.
+- 👀 I’m interested in ...DSA and Dev.
+- 🌱 I’m currently learning ...MERN.
 - 📫 How to reach me ... officialbikramjeet@gmail.com
 
 <!---
